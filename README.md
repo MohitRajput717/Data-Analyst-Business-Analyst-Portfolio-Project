@@ -33,5 +33,12 @@ R Programming :-
 2. Automate Script (Data extract through sql ) perform EDA and convert into readable format and also having auto mailer :-https://github.com/MohitRajput717/Data-Analyst-Business-Analyst-Portfolio-Project/blob/main/Automate%20Report%20through%20R%20with%20sql.R
 
 
+3. Power Bi projects
 
-## Analyze
+1.Ecommerse Sales Dashboard :- https://drive.google.com/drive/folders/11-AJ2iM5bDilYPbcWhYCLcRCOn-lrDbt
+
+
+
+4. Excel :-
+
+1. Ecommerse Dashboard :- https://docs.google.com/spreadsheets/d/10nZbA_rVv3V8gDkzvTp8WtQ5SGbXpL54BvmkiIvkvpk/edit#gid=1595284455
