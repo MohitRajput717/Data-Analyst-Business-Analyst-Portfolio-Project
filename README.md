@@ -26,6 +26,11 @@ Python :-
 
 4. Data fetch through website with Autoscraper:- https://github.com/MohitRajput717/Sql-project-and-basics/blob/main/web%20Scrapper%20in%20python.ipynb
 
+5. Multiprocessing- fetch data from different-2 sql queries with python libraries such as Multiprocessing, pandas, sqlalchemy and use of cpu cores :- https://github.com/MohitRajput717/Data-Analyst-Business-Analyst-Portfolio-Project/blob/main/multiprocessing_data.py
+
+6. Multithreading  - Multiprocessing- fetch data from different-2 sql queries with python libraries such as Multiprocessing, pandas and mysqlclient :- https://github.com/MohitRajput717/Data-Analyst-Business-Analyst-Portfolio-Project/blob/main/multithreading.py
+
+
 R Programming :- 
 
 1. IMDB movies dataset Analyze EDA and provide some valuable question answert reated to dataset :- https://github.com/MohitRajput717/Data-Analyst-Business-Analyst-Portfolio-Project/blob/main/EDA%20with%20R%20on%20Movies%20data%20set.R
@@ -33,12 +38,12 @@ R Programming :-
 2. Automate Script (Data extract through sql ) perform EDA and convert into readable format and also having auto mailer :-https://github.com/MohitRajput717/Data-Analyst-Business-Analyst-Portfolio-Project/blob/main/Automate%20Report%20through%20R%20with%20sql.R
 
 
-3. Power Bi projects
+Power Bi projects
 
-1.Ecommerse Sales Dashboard :- https://drive.google.com/drive/folders/11-AJ2iM5bDilYPbcWhYCLcRCOn-lrDbt
+1. Ecommerse Sales   Dashboard :- https://drive.google.com/drive/folders/11-AJ2iM5bDilYPbcWhYCLcRCOn-lrDbt
 
 
 
-4. Excel :-
+Excel :-
 
 1. Ecommerse Dashboard :- https://docs.google.com/spreadsheets/d/10nZbA_rVv3V8gDkzvTp8WtQ5SGbXpL54BvmkiIvkvpk/edit#gid=1595284455
